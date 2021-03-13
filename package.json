@@ -1,0 +1,14 @@
+{
+  "name": "itm-2003",
+  "version": "1.0.0",
+  "description": "static server with node.js\u0016( images, video)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moldur Kubanychbekova",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
